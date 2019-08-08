@@ -2,7 +2,7 @@
 margin:0;
 padding: 0;
 }
-
+ 
 /* The Header h1 a is for the title on the page only */
 
 #header h1 a {
@@ -19,7 +19,7 @@ text-align: center;
 text-decoration: none;
 }
 
-/* Format the header list items with boxes and formatting  */
+/* Format the  header list items with boxes and formatting  */
 #header ul {
 	list-style: none ;
 	margin: 10px;
