@@ -1,4 +1,4 @@
-# trains
+# Trains
 For Trains website
 
 This is used to streamline the process of finding the timetable of common train services.
