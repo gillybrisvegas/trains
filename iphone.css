@@ -1,3 +1,9 @@
+#header {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 #header h1{
 margin:0;
 padding: 0;
@@ -12,6 +18,8 @@ background-color: #ccc;
 border-bottom:1px solid #666;
 color: #222;
 display: block;
+width: 100%;
+box-sizing: border-box;
 font-size: 32px;
 font-weight: bold;
 padding: 10px 0;
