@@ -79,6 +79,6 @@ body {
 #romastmanly p,
 #centralmanly p,
 #valleymanly p {
-    margin: 0;
-    line-height: 1.1;
+    margin: 2px 0;
+    line-height: 1.2;
 }
